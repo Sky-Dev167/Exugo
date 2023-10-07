@@ -1,0 +1,22 @@
+#title{
+	background-color: darkred;
+	text-align: center;
+	font-size: 30px;
+}
+
+body{
+	font-family: Arial;
+	background-color: grey;
+}
+
+#text{
+	background-color: darkgrey;
+	text-align: center;
+	font-size: 25px;
+}
+
+#b1{
+	background-color: purple;
+	border-color: violet;
+	border-width: 5px;
+}
